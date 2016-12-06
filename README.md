@@ -1,7 +1,9 @@
-### Elm : [elm-lang.org](elm-lang.org)
+### Elm : [elm-lang.org](http://elm-lang.org)
 ---
 
 Practice programs from the course : http://courses.knowthen.com/courses/enrolled/elm-for-beginners
+
+Excercise for the course : https://github.com/knowthen/elm
 
 **Pure function :**
 
