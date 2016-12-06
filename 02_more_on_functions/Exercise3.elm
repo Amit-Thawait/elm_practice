@@ -1,8 +1,11 @@
 module Main exposing (..)
 
 import Html
-import String
-import List
+
+
+-- These are default imports. Refer : http://package.elm-lang.org/packages/elm-lang/core/latest
+-- import String
+-- import List
 
 
 sentence =
